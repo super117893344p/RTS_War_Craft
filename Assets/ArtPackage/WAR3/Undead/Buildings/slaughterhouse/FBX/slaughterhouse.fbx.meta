@@ -1,0 +1,461 @@
+fileFormatVersion: 2
+guid: 358995dc5475d4741979748ead28ab77
+timeCreated: 1587987446
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 1_undead_slaughterHouse_rig:main_geo
+    100002: 2_undead_slaughterHouse_rig:main_geo
+    100004: 3_undead_slaughterHouse_rigmain_geo_LOD1
+    100006: 4_undead_slaughterHouse_rigmain_geo_LOD1
+    100008: 5_undead_slaughterHouse_rigmain_geo_LOD2
+    100010: 6_undead_slaughterHouse_rigmain_geo_LOD2
+    100012: 7_undead_slaughterHouse_rigmain_geo_LOD3
+    100014: 8_undead_slaughterHouse_rigmain_geo_LOD3
+    100016: B_KGS_BoxCol_0
+    100018: B_KGS_BoxCol_1
+    100020: BirthLink
+    100022: chain_A_01_bind_jnt
+    100024: chain_A_02_bind_jnt
+    100026: chain_A_03_bind_jnt
+    100028: chain_B_01_bind_jnt
+    100030: chain_B_02_bind_jnt
+    100032: chain_B_03_bind_jnt
+    100034: chain_C_01_bind_jnt
+    100036: chain_C_02_bind_jnt
+    100038: chain_C_03_bind_jnt
+    100040: chain_D_01_bind_jnt
+    100042: chain_D_02_bind_jnt
+    100044: chain_D_03_bind_jnt
+    100046: chain_D_04_bind_jnt
+    100048: chain_E_01_bind_jnt
+    100050: chain_E_02_bind_jnt
+    100052: chain_E_03_bind_jnt
+    100054: cloth_A_01_bind_jnt
+    100056: cloth_A_02_bind_jnt
+    100058: cloth_A_03_bind_jnt
+    100060: cloth_A_04_bind_jnt
+    100062: cloth_B_01_bind_jnt
+    100064: cloth_B_02_bind_jnt
+    100066: cloth_B_03_bind_jnt
+    100068: cloth_B_04_bind_jnt
+    100070: cloth_C_01_bind_jnt
+    100072: cloth_C_02_bind_jnt
+    100074: cloth_C_03_bind_jnt
+    100076: cloth_C_04_bind_jnt
+    100078: Origin Ref
+    100080: OverHead Ref
+    100082: PIVOT - B_KGS_BoxCol_0
+    100084: PIVOT - B_KGS_BoxCol_1
+    100086: PIVOT - BirthLink
+    100088: PIVOT - chain_A_01_bind_jnt
+    100090: PIVOT - chain_A_02_bind_jnt
+    100092: PIVOT - chain_A_03_bind_jnt
+    100094: PIVOT - chain_B_01_bind_jnt
+    100096: PIVOT - chain_B_02_bind_jnt
+    100098: PIVOT - chain_B_03_bind_jnt
+    100100: PIVOT - chain_C_01_bind_jnt
+    100102: PIVOT - chain_C_02_bind_jnt
+    100104: PIVOT - chain_C_03_bind_jnt
+    100106: PIVOT - chain_D_01_bind_jnt
+    100108: PIVOT - chain_D_02_bind_jnt
+    100110: PIVOT - chain_D_03_bind_jnt
+    100112: PIVOT - chain_D_04_bind_jnt
+    100114: PIVOT - chain_E_01_bind_jnt
+    100116: PIVOT - chain_E_02_bind_jnt
+    100118: PIVOT - chain_E_03_bind_jnt
+    100120: PIVOT - cloth_A_01_bind_jnt
+    100122: PIVOT - cloth_A_02_bind_jnt
+    100124: PIVOT - cloth_A_03_bind_jnt
+    100126: PIVOT - cloth_A_04_bind_jnt
+    100128: PIVOT - cloth_B_01_bind_jnt
+    100130: PIVOT - cloth_B_02_bind_jnt
+    100132: PIVOT - cloth_B_03_bind_jnt
+    100134: PIVOT - cloth_B_04_bind_jnt
+    100136: PIVOT - cloth_C_01_bind_jnt
+    100138: PIVOT - cloth_C_02_bind_jnt
+    100140: PIVOT - cloth_C_03_bind_jnt
+    100142: PIVOT - cloth_C_04_bind_jnt
+    100144: PIVOT - Origin Ref
+    100146: PIVOT - OverHead Ref
+    100148: PIVOT - root_bind_jnt
+    100150: PIVOT - SH_Work
+    100152: PIVOT - SlaughterHouseDeath DeathLink
+    100154: PIVOT - SNDxDULB
+    100156: PIVOT - SPNxDUME
+    100158: PIVOT - SPNxUDSL
+    100160: PIVOT - Sprite first Ref
+    100162: PIVOT - Sprite RallyPoint Ref
+    100164: PIVOT - Sprite Second Ref
+    100166: PIVOT - Sprite Third Ref
+    100168: PIVOT - UBRxDUMB
+    100170: PIVOT - wheel_bind_jnt
+    100172: Portrait_Camera.Target.1
+    100174: Portrait_Camera1
+    100176: root_bind_jnt
+    100178: SH_Work
+    100180: SlaughterHouse
+    100182: //RootNode
+    100184: SlaughterHouseDeath DeathLink
+    100186: SNDxDULB
+    100188: SPNxDUME
+    100190: SPNxUDSL
+    100192: Sprite first Ref
+    100194: Sprite RallyPoint Ref
+    100196: Sprite Second Ref
+    100198: Sprite Third Ref
+    100200: UBRxDUMB
+    100202: wheel_bind_jnt
+    400000: 1_undead_slaughterHouse_rig:main_geo
+    400002: 2_undead_slaughterHouse_rig:main_geo
+    400004: 3_undead_slaughterHouse_rigmain_geo_LOD1
+    400006: 4_undead_slaughterHouse_rigmain_geo_LOD1
+    400008: 5_undead_slaughterHouse_rigmain_geo_LOD2
+    400010: 6_undead_slaughterHouse_rigmain_geo_LOD2
+    400012: 7_undead_slaughterHouse_rigmain_geo_LOD3
+    400014: 8_undead_slaughterHouse_rigmain_geo_LOD3
+    400016: B_KGS_BoxCol_0
+    400018: B_KGS_BoxCol_1
+    400020: BirthLink
+    400022: chain_A_01_bind_jnt
+    400024: chain_A_02_bind_jnt
+    400026: chain_A_03_bind_jnt
+    400028: chain_B_01_bind_jnt
+    400030: chain_B_02_bind_jnt
+    400032: chain_B_03_bind_jnt
+    400034: chain_C_01_bind_jnt
+    400036: chain_C_02_bind_jnt
+    400038: chain_C_03_bind_jnt
+    400040: chain_D_01_bind_jnt
+    400042: chain_D_02_bind_jnt
+    400044: chain_D_03_bind_jnt
+    400046: chain_D_04_bind_jnt
+    400048: chain_E_01_bind_jnt
+    400050: chain_E_02_bind_jnt
+    400052: chain_E_03_bind_jnt
+    400054: cloth_A_01_bind_jnt
+    400056: cloth_A_02_bind_jnt
+    400058: cloth_A_03_bind_jnt
+    400060: cloth_A_04_bind_jnt
+    400062: cloth_B_01_bind_jnt
+    400064: cloth_B_02_bind_jnt
+    400066: cloth_B_03_bind_jnt
+    400068: cloth_B_04_bind_jnt
+    400070: cloth_C_01_bind_jnt
+    400072: cloth_C_02_bind_jnt
+    400074: cloth_C_03_bind_jnt
+    400076: cloth_C_04_bind_jnt
+    400078: Origin Ref
+    400080: OverHead Ref
+    400082: PIVOT - B_KGS_BoxCol_0
+    400084: PIVOT - B_KGS_BoxCol_1
+    400086: PIVOT - BirthLink
+    400088: PIVOT - chain_A_01_bind_jnt
+    400090: PIVOT - chain_A_02_bind_jnt
+    400092: PIVOT - chain_A_03_bind_jnt
+    400094: PIVOT - chain_B_01_bind_jnt
+    400096: PIVOT - chain_B_02_bind_jnt
+    400098: PIVOT - chain_B_03_bind_jnt
+    400100: PIVOT - chain_C_01_bind_jnt
+    400102: PIVOT - chain_C_02_bind_jnt
+    400104: PIVOT - chain_C_03_bind_jnt
+    400106: PIVOT - chain_D_01_bind_jnt
+    400108: PIVOT - chain_D_02_bind_jnt
+    400110: PIVOT - chain_D_03_bind_jnt
+    400112: PIVOT - chain_D_04_bind_jnt
+    400114: PIVOT - chain_E_01_bind_jnt
+    400116: PIVOT - chain_E_02_bind_jnt
+    400118: PIVOT - chain_E_03_bind_jnt
+    400120: PIVOT - cloth_A_01_bind_jnt
+    400122: PIVOT - cloth_A_02_bind_jnt
+    400124: PIVOT - cloth_A_03_bind_jnt
+    400126: PIVOT - cloth_A_04_bind_jnt
+    400128: PIVOT - cloth_B_01_bind_jnt
+    400130: PIVOT - cloth_B_02_bind_jnt
+    400132: PIVOT - cloth_B_03_bind_jnt
+    400134: PIVOT - cloth_B_04_bind_jnt
+    400136: PIVOT - cloth_C_01_bind_jnt
+    400138: PIVOT - cloth_C_02_bind_jnt
+    400140: PIVOT - cloth_C_03_bind_jnt
+    400142: PIVOT - cloth_C_04_bind_jnt
+    400144: PIVOT - Origin Ref
+    400146: PIVOT - OverHead Ref
+    400148: PIVOT - root_bind_jnt
+    400150: PIVOT - SH_Work
+    400152: PIVOT - SlaughterHouseDeath DeathLink
+    400154: PIVOT - SNDxDULB
+    400156: PIVOT - SPNxDUME
+    400158: PIVOT - SPNxUDSL
+    400160: PIVOT - Sprite first Ref
+    400162: PIVOT - Sprite RallyPoint Ref
+    400164: PIVOT - Sprite Second Ref
+    400166: PIVOT - Sprite Third Ref
+    400168: PIVOT - UBRxDUMB
+    400170: PIVOT - wheel_bind_jnt
+    400172: Portrait_Camera.Target.1
+    400174: Portrait_Camera1
+    400176: root_bind_jnt
+    400178: SH_Work
+    400180: SlaughterHouse
+    400182: //RootNode
+    400184: SlaughterHouseDeath DeathLink
+    400186: SNDxDULB
+    400188: SPNxDUME
+    400190: SPNxUDSL
+    400192: Sprite first Ref
+    400194: Sprite RallyPoint Ref
+    400196: Sprite Second Ref
+    400198: Sprite Third Ref
+    400200: UBRxDUMB
+    400202: wheel_bind_jnt
+    2000000: Portrait_Camera1
+    2100000: No Name
+    2300000: B_KGS_BoxCol_0
+    2300002: B_KGS_BoxCol_1
+    3300000: B_KGS_BoxCol_0
+    3300002: B_KGS_BoxCol_1
+    4300000: 1_undead_slaughterHouse_rig:main_geo
+    4300002: 2_undead_slaughterHouse_rig:main_geo
+    4300004: 3_undead_slaughterHouse_rigmain_geo_LOD1
+    4300006: 4_undead_slaughterHouse_rigmain_geo_LOD1
+    4300008: 5_undead_slaughterHouse_rigmain_geo_LOD2
+    4300010: 6_undead_slaughterHouse_rigmain_geo_LOD2
+    4300012: 7_undead_slaughterHouse_rigmain_geo_LOD3
+    4300014: 8_undead_slaughterHouse_rigmain_geo_LOD3
+    4300016: B_KGS_BoxCol_0
+    4300018: B_KGS_BoxCol_1
+    7400000: Birth
+    7400002: Stand 1
+    7400004: Stand Work 1
+    7400006: Death 1
+    7400008: Decay
+    9500000: //RootNode
+    13700000: 1_undead_slaughterHouse_rig:main_geo
+    13700002: 2_undead_slaughterHouse_rig:main_geo
+    13700004: 3_undead_slaughterHouse_rigmain_geo_LOD1
+    13700006: 4_undead_slaughterHouse_rigmain_geo_LOD1
+    13700008: 5_undead_slaughterHouse_rigmain_geo_LOD2
+    13700010: 6_undead_slaughterHouse_rigmain_geo_LOD2
+    13700012: 7_undead_slaughterHouse_rigmain_geo_LOD3
+    13700014: 8_undead_slaughterHouse_rigmain_geo_LOD3
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Birth
+      takeName: 
+      firstFrame: 10
+      lastFrame: 1810
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stand 1
+      takeName: 
+      firstFrame: 1811
+      lastFrame: 2011
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stand Work 1
+      takeName: 
+      firstFrame: 2012
+      lastFrame: 2112
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death 1
+      takeName: 
+      firstFrame: 2113
+      lastFrame: 2188
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Decay
+      takeName: 
+      firstFrame: 2189
+      lastFrame: 3989
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 45
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

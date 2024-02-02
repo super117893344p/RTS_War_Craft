@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: c2851accb9c9dfa47b4701687da0650c
+timeCreated: 1584080557
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 10_polySurface3_LOD1_LOD3
+    100002: 11_polySurface3_LOD2_LOD1
+    100004: 12_polySurface3_LOD2_LOD2
+    100006: 13_polySurface3_LOD2_LOD3
+    100008: 14_polySurface3_LOD1_002
+    100010: 15_polySurface3_LOD2_002
+    100012: 16_polySurface3_LOD3_002
+    100014: 17_polySurface3_LOD1_LOD1_001
+    100016: 18_polySurface3_LOD1_LOD2_001
+    100018: 19_polySurface3_LOD1_LOD3_001
+    100020: 1_polySurface3
+    100022: 20_polySurface3_LOD2_LOD1_001
+    100024: 21_polySurface3_LOD2_LOD2_001
+    100026: 22_polySurface3_LOD2_LOD3_001
+    100028: 23_polySurface3_LOD3_LOD1
+    100030: 24_polySurface3_LOD3_LOD2
+    100032: 25_polySurface3_LOD3_LOD3
+    100034: 26_polySurface3_LOD1_001_LOD1
+    100036: 27_polySurface3_LOD1_001_LOD2
+    100038: 28_polySurface3_LOD1_001_LOD3
+    100040: 29_polySurface3_LOD2_001_LOD1
+    100042: 2_polySurface3_LOD1
+    100044: 30_polySurface3_LOD2_001_LOD2
+    100046: 31_polySurface3_LOD2_001_LOD3
+    100048: 32_polySurface3_LOD3_001_LOD1
+    100050: 33_polySurface3_LOD3_001_LOD2
+    100052: 34_polySurface3_LOD3_001_LOD3
+    100054: 35_polySurface3_LOD1_LOD1_LOD1
+    100056: 36_polySurface3_LOD1_LOD1_LOD2
+    100058: 37_polySurface3_LOD1_LOD1_LOD3
+    100060: 38_polySurface3_LOD1_LOD2_LOD1
+    100062: 39_polySurface3_LOD1_LOD2_LOD2
+    100064: 3_polySurface3_LOD2
+    100066: 40_polySurface3_LOD1_LOD2_LOD3
+    100068: 41_polySurface3_LOD1_LOD3_LOD1
+    100070: 42_polySurface3_LOD1_LOD3_LOD2
+    100072: 43_polySurface3_LOD1_LOD3_LOD3
+    100074: 44_polySurface3_LOD2_LOD1_LOD1
+    100076: 45_polySurface3_LOD2_LOD1_LOD2
+    100078: 46_polySurface3_LOD2_LOD1_LOD3
+    100080: 47_polySurface3_LOD2_LOD2_LOD1
+    100082: 48_polySurface3_LOD2_LOD2_LOD2
+    100084: 49_polySurface3_LOD2_LOD2_LOD3
+    100086: 4_polySurface3_LOD3
+    100088: 50_polySurface3_LOD2_LOD3_LOD1
+    100090: 51_polySurface3_LOD2_LOD3_LOD2
+    100092: 52_polySurface3_LOD2_LOD3_LOD3
+    100094: 5_polySurface3_LOD1_001
+    100096: 6_polySurface3_LOD2_001
+    100098: 7_polySurface3_LOD3_001
+    100100: 8_polySurface3_LOD1_LOD1
+    100102: 9_polySurface3_LOD1_LOD2
+    100104: AshenHollowStump
+    100106: //RootNode
+    100108: PIVOT - polySurface3
+    100110: PIVOT - polySurface3_LOD1
+    100112: PIVOT - polySurface3_LOD1_001
+    100114: PIVOT - polySurface3_LOD1_001_LOD1
+    100116: PIVOT - polySurface3_LOD1_001_LOD2
+    100118: PIVOT - polySurface3_LOD1_001_LOD3
+    100120: PIVOT - polySurface3_LOD1_002
+    100122: PIVOT - polySurface3_LOD1_LOD1
+    100124: PIVOT - polySurface3_LOD1_LOD1_001
+    100126: PIVOT - polySurface3_LOD1_LOD1_LOD1
+    100128: PIVOT - polySurface3_LOD1_LOD1_LOD2
+    100130: PIVOT - polySurface3_LOD1_LOD1_LOD3
+    100132: PIVOT - polySurface3_LOD1_LOD2
+    100134: PIVOT - polySurface3_LOD1_LOD2_001
+    100136: PIVOT - polySurface3_LOD1_LOD2_LOD1
+    100138: PIVOT - polySurface3_LOD1_LOD2_LOD2
+    100140: PIVOT - polySurface3_LOD1_LOD2_LOD3
+    100142: PIVOT - polySurface3_LOD1_LOD3
+    100144: PIVOT - polySurface3_LOD1_LOD3_001
+    100146: PIVOT - polySurface3_LOD1_LOD3_LOD1
+    100148: PIVOT - polySurface3_LOD1_LOD3_LOD2
+    100150: PIVOT - polySurface3_LOD1_LOD3_LOD3
+    100152: PIVOT - polySurface3_LOD2
+    100154: PIVOT - polySurface3_LOD2_001
+    100156: PIVOT - polySurface3_LOD2_001_LOD1
+    100158: PIVOT - polySurface3_LOD2_001_LOD2
+    100160: PIVOT - polySurface3_LOD2_001_LOD3
+    100162: PIVOT - polySurface3_LOD2_002
+    100164: PIVOT - polySurface3_LOD2_LOD1
+    100166: PIVOT - polySurface3_LOD2_LOD1_001
+    100168: PIVOT - polySurface3_LOD2_LOD1_LOD1
+    100170: PIVOT - polySurface3_LOD2_LOD1_LOD2
+    100172: PIVOT - polySurface3_LOD2_LOD1_LOD3
+    100174: PIVOT - polySurface3_LOD2_LOD2
+    100176: PIVOT - polySurface3_LOD2_LOD2_001
+    100178: PIVOT - polySurface3_LOD2_LOD2_LOD1
+    100180: PIVOT - polySurface3_LOD2_LOD2_LOD2
+    100182: PIVOT - polySurface3_LOD2_LOD2_LOD3
+    100184: PIVOT - polySurface3_LOD2_LOD3
+    100186: PIVOT - polySurface3_LOD2_LOD3_001
+    100188: PIVOT - polySurface3_LOD2_LOD3_LOD1
+    100190: PIVOT - polySurface3_LOD2_LOD3_LOD2
+    100192: PIVOT - polySurface3_LOD2_LOD3_LOD3
+    100194: PIVOT - polySurface3_LOD3
+    100196: PIVOT - polySurface3_LOD3_001
+    100198: PIVOT - polySurface3_LOD3_001_LOD1
+    100200: PIVOT - polySurface3_LOD3_001_LOD2
+    100202: PIVOT - polySurface3_LOD3_001_LOD3
+    100204: PIVOT - polySurface3_LOD3_002
+    100206: PIVOT - polySurface3_LOD3_LOD1
+    100208: PIVOT - polySurface3_LOD3_LOD2
+    100210: PIVOT - polySurface3_LOD3_LOD3
+    100212: polySurface3
+    100214: polySurface3_LOD1
+    100216: polySurface3_LOD1_001
+    100218: polySurface3_LOD1_001_LOD1
+    100220: polySurface3_LOD1_001_LOD2
+    100222: polySurface3_LOD1_001_LOD3
+    100224: polySurface3_LOD1_002
+    100226: polySurface3_LOD1_LOD1
+    100228: polySurface3_LOD1_LOD1_001
+    100230: polySurface3_LOD1_LOD1_LOD1
+    100232: polySurface3_LOD1_LOD1_LOD2
+    100234: polySurface3_LOD1_LOD1_LOD3
+    100236: polySurface3_LOD1_LOD2
+    100238: polySurface3_LOD1_LOD2_001
+    100240: polySurface3_LOD1_LOD2_LOD1
+    100242: polySurface3_LOD1_LOD2_LOD2
+    100244: polySurface3_LOD1_LOD2_LOD3
+    100246: polySurface3_LOD1_LOD3
+    100248: polySurface3_LOD1_LOD3_001
+    100250: polySurface3_LOD1_LOD3_LOD1
+    100252: polySurface3_LOD1_LOD3_LOD2
+    100254: polySurface3_LOD1_LOD3_LOD3
+    100256: polySurface3_LOD2
+    100258: polySurface3_LOD2_001
+    100260: polySurface3_LOD2_001_LOD1
+    100262: polySurface3_LOD2_001_LOD2
+    100264: polySurface3_LOD2_001_LOD3
+    100266: polySurface3_LOD2_002
+    100268: polySurface3_LOD2_LOD1
+    100270: polySurface3_LOD2_LOD1_001
+    100272: polySurface3_LOD2_LOD1_LOD1
+    100274: polySurface3_LOD2_LOD1_LOD2
+    100276: polySurface3_LOD2_LOD1_LOD3
+    100278: polySurface3_LOD2_LOD2
+    100280: polySurface3_LOD2_LOD2_001
+    100282: polySurface3_LOD2_LOD2_LOD1
+    100284: polySurface3_LOD2_LOD2_LOD2
+    100286: polySurface3_LOD2_LOD2_LOD3
+    100288: polySurface3_LOD2_LOD3
+    100290: polySurface3_LOD2_LOD3_001
+    100292: polySurface3_LOD2_LOD3_LOD1
+    100294: polySurface3_LOD2_LOD3_LOD2
+    100296: polySurface3_LOD2_LOD3_LOD3
+    100298: polySurface3_LOD3
+    100300: polySurface3_LOD3_001
+    100302: polySurface3_LOD3_001_LOD1
+    100304: polySurface3_LOD3_001_LOD2
+    100306: polySurface3_LOD3_001_LOD3
+    100308: polySurface3_LOD3_002
+    100310: polySurface3_LOD3_LOD1
+    100312: polySurface3_LOD3_LOD2
+    100314: polySurface3_LOD3_LOD3
+    400000: 10_polySurface3_LOD1_LOD3
+    400002: 11_polySurface3_LOD2_LOD1
+    400004: 12_polySurface3_LOD2_LOD2
+    400006: 13_polySurface3_LOD2_LOD3
+    400008: 14_polySurface3_LOD1_002
+    400010: 15_polySurface3_LOD2_002
+    400012: 16_polySurface3_LOD3_002
+    400014: 17_polySurface3_LOD1_LOD1_001
+    400016: 18_polySurface3_LOD1_LOD2_001
+    400018: 19_polySurface3_LOD1_LOD3_001
+    400020: 1_polySurface3
+    400022: 20_polySurface3_LOD2_LOD1_001
+    400024: 21_polySurface3_LOD2_LOD2_001
+    400026: 22_polySurface3_LOD2_LOD3_001
+    400028: 23_polySurface3_LOD3_LOD1
+    400030: 24_polySurface3_LOD3_LOD2
+    400032: 25_polySurface3_LOD3_LOD3
+    400034: 26_polySurface3_LOD1_001_LOD1
+    400036: 27_polySurface3_LOD1_001_LOD2
+    400038: 28_polySurface3_LOD1_001_LOD3
+    400040: 29_polySurface3_LOD2_001_LOD1
+    400042: 2_polySurface3_LOD1
+    400044: 30_polySurface3_LOD2_001_LOD2
+    400046: 31_polySurface3_LOD2_001_LOD3
+    400048: 32_polySurface3_LOD3_001_LOD1
+    400050: 33_polySurface3_LOD3_001_LOD2
+    400052: 34_polySurface3_LOD3_001_LOD3
+    400054: 35_polySurface3_LOD1_LOD1_LOD1
+    400056: 36_polySurface3_LOD1_LOD1_LOD2
+    400058: 37_polySurface3_LOD1_LOD1_LOD3
+    400060: 38_polySurface3_LOD1_LOD2_LOD1
+    400062: 39_polySurface3_LOD1_LOD2_LOD2
+    400064: 3_polySurface3_LOD2
+    400066: 40_polySurface3_LOD1_LOD2_LOD3
+    400068: 41_polySurface3_LOD1_LOD3_LOD1
+    400070: 42_polySurface3_LOD1_LOD3_LOD2
+    400072: 43_polySurface3_LOD1_LOD3_LOD3
+    400074: 44_polySurface3_LOD2_LOD1_LOD1
+    400076: 45_polySurface3_LOD2_LOD1_LOD2
+    400078: 46_polySurface3_LOD2_LOD1_LOD3
+    400080: 47_polySurface3_LOD2_LOD2_LOD1
+    400082: 48_polySurface3_LOD2_LOD2_LOD2
+    400084: 49_polySurface3_LOD2_LOD2_LOD3
+    400086: 4_polySurface3_LOD3
+    400088: 50_polySurface3_LOD2_LOD3_LOD1
+    400090: 51_polySurface3_LOD2_LOD3_LOD2
+    400092: 52_polySurface3_LOD2_LOD3_LOD3
+    400094: 5_polySurface3_LOD1_001
+    400096: 6_polySurface3_LOD2_001
+    400098: 7_polySurface3_LOD3_001
+    400100: 8_polySurface3_LOD1_LOD1
+    400102: 9_polySurface3_LOD1_LOD2
+    400104: AshenHollowStump
+    400106: //RootNode
+    400108: PIVOT - polySurface3
+    400110: PIVOT - polySurface3_LOD1
+    400112: PIVOT - polySurface3_LOD1_001
+    400114: PIVOT - polySurface3_LOD1_001_LOD1
+    400116: PIVOT - polySurface3_LOD1_001_LOD2
+    400118: PIVOT - polySurface3_LOD1_001_LOD3
+    400120: PIVOT - polySurface3_LOD1_002
+    400122: PIVOT - polySurface3_LOD1_LOD1
+    400124: PIVOT - polySurface3_LOD1_LOD1_001
+    400126: PIVOT - polySurface3_LOD1_LOD1_LOD1
+    400128: PIVOT - polySurface3_LOD1_LOD1_LOD2
+    400130: PIVOT - polySurface3_LOD1_LOD1_LOD3
+    400132: PIVOT - polySurface3_LOD1_LOD2
+    400134: PIVOT - polySurface3_LOD1_LOD2_001
+    400136: PIVOT - polySurface3_LOD1_LOD2_LOD1
+    400138: PIVOT - polySurface3_LOD1_LOD2_LOD2
+    400140: PIVOT - polySurface3_LOD1_LOD2_LOD3
+    400142: PIVOT - polySurface3_LOD1_LOD3
+    400144: PIVOT - polySurface3_LOD1_LOD3_001
+    400146: PIVOT - polySurface3_LOD1_LOD3_LOD1
+    400148: PIVOT - polySurface3_LOD1_LOD3_LOD2
+    400150: PIVOT - polySurface3_LOD1_LOD3_LOD3
+    400152: PIVOT - polySurface3_LOD2
+    400154: PIVOT - polySurface3_LOD2_001
+    400156: PIVOT - polySurface3_LOD2_001_LOD1
+    400158: PIVOT - polySurface3_LOD2_001_LOD2
+    400160: PIVOT - polySurface3_LOD2_001_LOD3
+    400162: PIVOT - polySurface3_LOD2_002
+    400164: PIVOT - polySurface3_LOD2_LOD1
+    400166: PIVOT - polySurface3_LOD2_LOD1_001
+    400168: PIVOT - polySurface3_LOD2_LOD1_LOD1
+    400170: PIVOT - polySurface3_LOD2_LOD1_LOD2
+    400172: PIVOT - polySurface3_LOD2_LOD1_LOD3
+    400174: PIVOT - polySurface3_LOD2_LOD2
+    400176: PIVOT - polySurface3_LOD2_LOD2_001
+    400178: PIVOT - polySurface3_LOD2_LOD2_LOD1
+    400180: PIVOT - polySurface3_LOD2_LOD2_LOD2
+    400182: PIVOT - polySurface3_LOD2_LOD2_LOD3
+    400184: PIVOT - polySurface3_LOD2_LOD3
+    400186: PIVOT - polySurface3_LOD2_LOD3_001
+    400188: PIVOT - polySurface3_LOD2_LOD3_LOD1
+    400190: PIVOT - polySurface3_LOD2_LOD3_LOD2
+    400192: PIVOT - polySurface3_LOD2_LOD3_LOD3
+    400194: PIVOT - polySurface3_LOD3
+    400196: PIVOT - polySurface3_LOD3_001
+    400198: PIVOT - polySurface3_LOD3_001_LOD1
+    400200: PIVOT - polySurface3_LOD3_001_LOD2
+    400202: PIVOT - polySurface3_LOD3_001_LOD3
+    400204: PIVOT - polySurface3_LOD3_002
+    400206: PIVOT - polySurface3_LOD3_LOD1
+    400208: PIVOT - polySurface3_LOD3_LOD2
+    400210: PIVOT - polySurface3_LOD3_LOD3
+    400212: polySurface3
+    400214: polySurface3_LOD1
+    400216: polySurface3_LOD1_001
+    400218: polySurface3_LOD1_001_LOD1
+    400220: polySurface3_LOD1_001_LOD2
+    400222: polySurface3_LOD1_001_LOD3
+    400224: polySurface3_LOD1_002
+    400226: polySurface3_LOD1_LOD1
+    400228: polySurface3_LOD1_LOD1_001
+    400230: polySurface3_LOD1_LOD1_LOD1
+    400232: polySurface3_LOD1_LOD1_LOD2
+    400234: polySurface3_LOD1_LOD1_LOD3
+    400236: polySurface3_LOD1_LOD2
+    400238: polySurface3_LOD1_LOD2_001
+    400240: polySurface3_LOD1_LOD2_LOD1
+    400242: polySurface3_LOD1_LOD2_LOD2
+    400244: polySurface3_LOD1_LOD2_LOD3
+    400246: polySurface3_LOD1_LOD3
+    400248: polySurface3_LOD1_LOD3_001
+    400250: polySurface3_LOD1_LOD3_LOD1
+    400252: polySurface3_LOD1_LOD3_LOD2
+    400254: polySurface3_LOD1_LOD3_LOD3
+    400256: polySurface3_LOD2
+    400258: polySurface3_LOD2_001
+    400260: polySurface3_LOD2_001_LOD1
+    400262: polySurface3_LOD2_001_LOD2
+    400264: polySurface3_LOD2_001_LOD3
+    400266: polySurface3_LOD2_002
+    400268: polySurface3_LOD2_LOD1
+    400270: polySurface3_LOD2_LOD1_001
+    400272: polySurface3_LOD2_LOD1_LOD1
+    400274: polySurface3_LOD2_LOD1_LOD2
+    400276: polySurface3_LOD2_LOD1_LOD3
+    400278: polySurface3_LOD2_LOD2
+    400280: polySurface3_LOD2_LOD2_001
+    400282: polySurface3_LOD2_LOD2_LOD1
+    400284: polySurface3_LOD2_LOD2_LOD2
+    400286: polySurface3_LOD2_LOD2_LOD3
+    400288: polySurface3_LOD2_LOD3
+    400290: polySurface3_LOD2_LOD3_001
+    400292: polySurface3_LOD2_LOD3_LOD1
+    400294: polySurface3_LOD2_LOD3_LOD2
+    400296: polySurface3_LOD2_LOD3_LOD3
+    400298: polySurface3_LOD3
+    400300: polySurface3_LOD3_001
+    400302: polySurface3_LOD3_001_LOD1
+    400304: polySurface3_LOD3_001_LOD2
+    400306: polySurface3_LOD3_001_LOD3
+    400308: polySurface3_LOD3_002
+    400310: polySurface3_LOD3_LOD1
+    400312: polySurface3_LOD3_LOD2
+    400314: polySurface3_LOD3_LOD3
+    2100000: No Name
+    4300000: 1_polySurface3
+    4300002: 2_polySurface3_LOD1
+    4300004: 3_polySurface3_LOD2
+    4300006: 4_polySurface3_LOD3
+    4300008: 5_polySurface3_LOD1_001
+    4300010: 6_polySurface3_LOD2_001
+    4300012: 7_polySurface3_LOD3_001
+    4300014: 8_polySurface3_LOD1_LOD1
+    4300016: 9_polySurface3_LOD1_LOD2
+    4300018: 10_polySurface3_LOD1_LOD3
+    4300020: 11_polySurface3_LOD2_LOD1
+    4300022: 12_polySurface3_LOD2_LOD2
+    4300024: 13_polySurface3_LOD2_LOD3
+    4300026: 14_polySurface3_LOD1_002
+    4300028: 15_polySurface3_LOD2_002
+    4300030: 16_polySurface3_LOD3_002
+    4300032: 17_polySurface3_LOD1_LOD1_001
+    4300034: 18_polySurface3_LOD1_LOD2_001
+    4300036: 19_polySurface3_LOD1_LOD3_001
+    4300038: 20_polySurface3_LOD2_LOD1_001
+    4300040: 21_polySurface3_LOD2_LOD2_001
+    4300042: 22_polySurface3_LOD2_LOD3_001
+    4300044: 23_polySurface3_LOD3_LOD1
+    4300046: 24_polySurface3_LOD3_LOD2
+    4300048: 25_polySurface3_LOD3_LOD3
+    4300050: 26_polySurface3_LOD1_001_LOD1
+    4300052: 27_polySurface3_LOD1_001_LOD2
+    4300054: 28_polySurface3_LOD1_001_LOD3
+    4300056: 29_polySurface3_LOD2_001_LOD1
+    4300058: 30_polySurface3_LOD2_001_LOD2
+    4300060: 31_polySurface3_LOD2_001_LOD3
+    4300062: 32_polySurface3_LOD3_001_LOD1
+    4300064: 33_polySurface3_LOD3_001_LOD2
+    4300066: 34_polySurface3_LOD3_001_LOD3
+    4300068: 35_polySurface3_LOD1_LOD1_LOD1
+    4300070: 36_polySurface3_LOD1_LOD1_LOD2
+    4300072: 37_polySurface3_LOD1_LOD1_LOD3
+    4300074: 38_polySurface3_LOD1_LOD2_LOD1
+    4300076: 39_polySurface3_LOD1_LOD2_LOD2
+    4300078: 40_polySurface3_LOD1_LOD2_LOD3
+    4300080: 41_polySurface3_LOD1_LOD3_LOD1
+    4300082: 42_polySurface3_LOD1_LOD3_LOD2
+    4300084: 43_polySurface3_LOD1_LOD3_LOD3
+    4300086: 44_polySurface3_LOD2_LOD1_LOD1
+    4300088: 45_polySurface3_LOD2_LOD1_LOD2
+    4300090: 46_polySurface3_LOD2_LOD1_LOD3
+    4300092: 47_polySurface3_LOD2_LOD2_LOD1
+    4300094: 48_polySurface3_LOD2_LOD2_LOD2
+    4300096: 49_polySurface3_LOD2_LOD2_LOD3
+    4300098: 50_polySurface3_LOD2_LOD3_LOD1
+    4300100: 51_polySurface3_LOD2_LOD3_LOD2
+    4300102: 52_polySurface3_LOD2_LOD3_LOD3
+    9500000: //RootNode
+    13700000: 10_polySurface3_LOD1_LOD3
+    13700002: 11_polySurface3_LOD2_LOD1
+    13700004: 12_polySurface3_LOD2_LOD2
+    13700006: 13_polySurface3_LOD2_LOD3
+    13700008: 14_polySurface3_LOD1_002
+    13700010: 15_polySurface3_LOD2_002
+    13700012: 16_polySurface3_LOD3_002
+    13700014: 17_polySurface3_LOD1_LOD1_001
+    13700016: 18_polySurface3_LOD1_LOD2_001
+    13700018: 19_polySurface3_LOD1_LOD3_001
+    13700020: 1_polySurface3
+    13700022: 20_polySurface3_LOD2_LOD1_001
+    13700024: 21_polySurface3_LOD2_LOD2_001
+    13700026: 22_polySurface3_LOD2_LOD3_001
+    13700028: 23_polySurface3_LOD3_LOD1
+    13700030: 24_polySurface3_LOD3_LOD2
+    13700032: 25_polySurface3_LOD3_LOD3
+    13700034: 26_polySurface3_LOD1_001_LOD1
+    13700036: 27_polySurface3_LOD1_001_LOD2
+    13700038: 28_polySurface3_LOD1_001_LOD3
+    13700040: 29_polySurface3_LOD2_001_LOD1
+    13700042: 2_polySurface3_LOD1
+    13700044: 30_polySurface3_LOD2_001_LOD2
+    13700046: 31_polySurface3_LOD2_001_LOD3
+    13700048: 32_polySurface3_LOD3_001_LOD1
+    13700050: 33_polySurface3_LOD3_001_LOD2
+    13700052: 34_polySurface3_LOD3_001_LOD3
+    13700054: 35_polySurface3_LOD1_LOD1_LOD1
+    13700056: 36_polySurface3_LOD1_LOD1_LOD2
+    13700058: 37_polySurface3_LOD1_LOD1_LOD3
+    13700060: 38_polySurface3_LOD1_LOD2_LOD1
+    13700062: 39_polySurface3_LOD1_LOD2_LOD2
+    13700064: 3_polySurface3_LOD2
+    13700066: 40_polySurface3_LOD1_LOD2_LOD3
+    13700068: 41_polySurface3_LOD1_LOD3_LOD1
+    13700070: 42_polySurface3_LOD1_LOD3_LOD2
+    13700072: 43_polySurface3_LOD1_LOD3_LOD3
+    13700074: 44_polySurface3_LOD2_LOD1_LOD1
+    13700076: 45_polySurface3_LOD2_LOD1_LOD2
+    13700078: 46_polySurface3_LOD2_LOD1_LOD3
+    13700080: 47_polySurface3_LOD2_LOD2_LOD1
+    13700082: 48_polySurface3_LOD2_LOD2_LOD2
+    13700084: 49_polySurface3_LOD2_LOD2_LOD3
+    13700086: 4_polySurface3_LOD3
+    13700088: 50_polySurface3_LOD2_LOD3_LOD1
+    13700090: 51_polySurface3_LOD2_LOD3_LOD2
+    13700092: 52_polySurface3_LOD2_LOD3_LOD3
+    13700094: 5_polySurface3_LOD1_001
+    13700096: 6_polySurface3_LOD2_001
+    13700098: 7_polySurface3_LOD3_001
+    13700100: 8_polySurface3_LOD1_LOD1
+    13700102: 9_polySurface3_LOD1_LOD2
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Stand 1
+      takeName: 
+      firstFrame: 10
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

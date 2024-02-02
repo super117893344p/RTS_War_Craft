@@ -1,0 +1,358 @@
+fileFormatVersion: 2
+guid: f9d0b6fdbc14b704e80a9ebf94f6d729
+timeCreated: 1587988596
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 1_undead_templeOfTheDamned_rig:main_geo
+    100002: 2_undead_templeOfTheDamned_rig:main_geo
+    100004: 3_undead_templeOfTheDamned_rigmain_geo_LOD1
+    100006: 4_undead_templeOfTheDamned_rigmain_geo_LOD1
+    100008: 5_undead_templeOfTheDamned_rigmain_geo_LOD2
+    100010: 6_undead_templeOfTheDamned_rigmain_geo_LOD2
+    100012: 7_undead_templeOfTheDamned_rigmain_geo_LOD3
+    100014: 8_undead_templeOfTheDamned_rigmain_geo_LOD3
+    100016: B_KGS_BoxCol_1
+    100018: BirthLink
+    100020: main_geo
+    100022: Origin Ref
+    100024: OverHead Ref
+    100026: PIVOT - B_KGS_BoxCol_1
+    100028: PIVOT - BirthLink
+    100030: PIVOT - main_geo
+    100032: PIVOT - Origin Ref
+    100034: PIVOT - OverHead Ref
+    100036: PIVOT - SNDxDULB
+    100038: PIVOT - SPNxDUME
+    100040: PIVOT - SPNxUDTE
+    100042: PIVOT - Sprite First Ref
+    100044: PIVOT - Sprite RallyPoint Ref
+    100046: PIVOT - Sprite Second Ref
+    100048: PIVOT - Sprite Third Ref
+    100050: PIVOT - TempleOfTheDamnedDeath DeathLink
+    100052: PIVOT - TOTD_WorkGlow
+    100054: PIVOT - TOTD_WorkSmoke
+    100056: PIVOT - TOTD_WorkSmoke1
+    100058: PIVOT - UBRxDUMB
+    100060: PIVOT - undead_templeOfTheDamned_rigmain_geo_LOD1
+    100062: PIVOT - undead_templeOfTheDamned_rigmain_geo_LOD2
+    100064: PIVOT - undead_templeOfTheDamned_rigmain_geo_LOD3
+    100066: Portrait_Camera.Target.1
+    100068: Portrait_Camera1
+    100070: SNDxDULB
+    100072: SPNxDUME
+    100074: SPNxUDTE
+    100076: Sprite First Ref
+    100078: Sprite RallyPoint Ref
+    100080: Sprite Second Ref
+    100082: Sprite Third Ref
+    100084: TempleOfTheDamned
+    100086: //RootNode
+    100088: TempleOfTheDamnedDeath DeathLink
+    100090: TOTD_WorkGlow
+    100092: TOTD_WorkSmoke
+    100094: TOTD_WorkSmoke1
+    100096: UBRxDUMB
+    100098: undead_templeOfTheDamned_rigmain_geo_LOD1
+    100100: undead_templeOfTheDamned_rigmain_geo_LOD2
+    100102: undead_templeOfTheDamned_rigmain_geo_LOD3
+    400000: 1_undead_templeOfTheDamned_rig:main_geo
+    400002: 2_undead_templeOfTheDamned_rig:main_geo
+    400004: 3_undead_templeOfTheDamned_rigmain_geo_LOD1
+    400006: 4_undead_templeOfTheDamned_rigmain_geo_LOD1
+    400008: 5_undead_templeOfTheDamned_rigmain_geo_LOD2
+    400010: 6_undead_templeOfTheDamned_rigmain_geo_LOD2
+    400012: 7_undead_templeOfTheDamned_rigmain_geo_LOD3
+    400014: 8_undead_templeOfTheDamned_rigmain_geo_LOD3
+    400016: B_KGS_BoxCol_1
+    400018: BirthLink
+    400020: main_geo
+    400022: Origin Ref
+    400024: OverHead Ref
+    400026: PIVOT - B_KGS_BoxCol_1
+    400028: PIVOT - BirthLink
+    400030: PIVOT - main_geo
+    400032: PIVOT - Origin Ref
+    400034: PIVOT - OverHead Ref
+    400036: PIVOT - SNDxDULB
+    400038: PIVOT - SPNxDUME
+    400040: PIVOT - SPNxUDTE
+    400042: PIVOT - Sprite First Ref
+    400044: PIVOT - Sprite RallyPoint Ref
+    400046: PIVOT - Sprite Second Ref
+    400048: PIVOT - Sprite Third Ref
+    400050: PIVOT - TempleOfTheDamnedDeath DeathLink
+    400052: PIVOT - TOTD_WorkGlow
+    400054: PIVOT - TOTD_WorkSmoke
+    400056: PIVOT - TOTD_WorkSmoke1
+    400058: PIVOT - UBRxDUMB
+    400060: PIVOT - undead_templeOfTheDamned_rigmain_geo_LOD1
+    400062: PIVOT - undead_templeOfTheDamned_rigmain_geo_LOD2
+    400064: PIVOT - undead_templeOfTheDamned_rigmain_geo_LOD3
+    400066: Portrait_Camera.Target.1
+    400068: Portrait_Camera1
+    400070: SNDxDULB
+    400072: SPNxDUME
+    400074: SPNxUDTE
+    400076: Sprite First Ref
+    400078: Sprite RallyPoint Ref
+    400080: Sprite Second Ref
+    400082: Sprite Third Ref
+    400084: TempleOfTheDamned
+    400086: //RootNode
+    400088: TempleOfTheDamnedDeath DeathLink
+    400090: TOTD_WorkGlow
+    400092: TOTD_WorkSmoke
+    400094: TOTD_WorkSmoke1
+    400096: UBRxDUMB
+    400098: undead_templeOfTheDamned_rigmain_geo_LOD1
+    400100: undead_templeOfTheDamned_rigmain_geo_LOD2
+    400102: undead_templeOfTheDamned_rigmain_geo_LOD3
+    2000000: Portrait_Camera1
+    2100000: No Name
+    2300000: B_KGS_BoxCol_1
+    3300000: B_KGS_BoxCol_1
+    4300000: 1_undead_templeOfTheDamned_rig:main_geo
+    4300002: 2_undead_templeOfTheDamned_rig:main_geo
+    4300004: 3_undead_templeOfTheDamned_rigmain_geo_LOD1
+    4300006: 4_undead_templeOfTheDamned_rigmain_geo_LOD1
+    4300008: 5_undead_templeOfTheDamned_rigmain_geo_LOD2
+    4300010: 6_undead_templeOfTheDamned_rigmain_geo_LOD2
+    4300012: 7_undead_templeOfTheDamned_rigmain_geo_LOD3
+    4300014: 8_undead_templeOfTheDamned_rigmain_geo_LOD3
+    4300016: B_KGS_BoxCol_1
+    7400000: Birth
+    7400002: Stand 1
+    7400004: Stand Work 1
+    7400006: Death 1
+    7400008: Decay
+    9500000: //RootNode
+    13700000: 1_undead_templeOfTheDamned_rig:main_geo
+    13700002: 2_undead_templeOfTheDamned_rig:main_geo
+    13700004: 3_undead_templeOfTheDamned_rigmain_geo_LOD1
+    13700006: 4_undead_templeOfTheDamned_rigmain_geo_LOD1
+    13700008: 5_undead_templeOfTheDamned_rigmain_geo_LOD2
+    13700010: 6_undead_templeOfTheDamned_rigmain_geo_LOD2
+    13700012: 7_undead_templeOfTheDamned_rigmain_geo_LOD3
+    13700014: 8_undead_templeOfTheDamned_rigmain_geo_LOD3
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Birth
+      takeName: 
+      firstFrame: 10
+      lastFrame: 1810
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stand 1
+      takeName: 
+      firstFrame: 1811
+      lastFrame: 2011
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stand Work 1
+      takeName: 
+      firstFrame: 2012
+      lastFrame: 2212
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death 1
+      takeName: 
+      firstFrame: 2213
+      lastFrame: 2274
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Decay
+      takeName: 
+      firstFrame: 2275
+      lastFrame: 4075
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 45
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

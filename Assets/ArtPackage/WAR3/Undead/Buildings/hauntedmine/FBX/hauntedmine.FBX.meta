@@ -1,0 +1,424 @@
+fileFormatVersion: 2
+guid: fb4d56fe3d41b4d43ab099c15564a148
+timeCreated: 1583832133
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 10_undead_hauntedGoldMine_rigmine_geo_LOD1
+    100002: 11_undead_hauntedGoldMine_rigmine_geo_LOD2
+    100004: 12_undead_hauntedGoldMine_rigmine_geo_LOD3
+    100006: 1_undead_hauntedGoldMine_rig:main_geo
+    100008: 2_undead_hauntedGoldMine_rig:main_geo
+    100010: 3_undead_hauntedGoldMine_rig:mine_geo
+    100012: 4_undead_hauntedGoldMine_rigmain_geo_LOD1
+    100014: 5_undead_hauntedGoldMine_rigmain_geo_LOD1
+    100016: 6_undead_hauntedGoldMine_rigmain_geo_LOD2
+    100018: 7_undead_hauntedGoldMine_rigmain_geo_LOD2
+    100020: 8_undead_hauntedGoldMine_rigmain_geo_LOD3
+    100022: 9_undead_hauntedGoldMine_rigmain_geo_LOD3
+    100024: B_KGS_BoxCol_0
+    100026: B_KGS_BoxCol_1
+    100028: base_bind_jnt
+    100030: BirthLink
+    100032: chain_A_01_bind_jnt
+    100034: chain_A_02_bind_jnt
+    100036: chain_A_03_bind_jnt
+    100038: chain_B_01_bind_jnt
+    100040: chain_B_02_bind_jnt
+    100042: chain_B_03_bind_jnt
+    100044: chain_C_01_bind_jnt
+    100046: chain_C_02_bind_jnt
+    100048: chain_C_03_bind_jnt
+    100050: chain_D_01_bind_jnt
+    100052: chain_D_02_bind_jnt
+    100054: chain_D_03_bind_jnt
+    100056: chain_E_01_bind_jnt
+    100058: chain_E_02_bind_jnt
+    100060: chain_E_03_bind_jnt
+    100062: CryptStand
+    100064: crystal_bind_jnt
+    100066: HauntedGoldMineDeath DeathLink
+    100068: HauntedMine
+    100070: //RootNode
+    100072: HauntedMine_Glow
+    100074: Origin Base Ref
+    100076: Origin Ref
+    100078: OverHead Ref
+    100080: PIVOT - B_KGS_BoxCol_0
+    100082: PIVOT - B_KGS_BoxCol_1
+    100084: PIVOT - base_bind_jnt
+    100086: PIVOT - BirthLink
+    100088: PIVOT - chain_A_01_bind_jnt
+    100090: PIVOT - chain_A_02_bind_jnt
+    100092: PIVOT - chain_A_03_bind_jnt
+    100094: PIVOT - chain_B_01_bind_jnt
+    100096: PIVOT - chain_B_02_bind_jnt
+    100098: PIVOT - chain_B_03_bind_jnt
+    100100: PIVOT - chain_C_01_bind_jnt
+    100102: PIVOT - chain_C_02_bind_jnt
+    100104: PIVOT - chain_C_03_bind_jnt
+    100106: PIVOT - chain_D_01_bind_jnt
+    100108: PIVOT - chain_D_02_bind_jnt
+    100110: PIVOT - chain_D_03_bind_jnt
+    100112: PIVOT - chain_E_01_bind_jnt
+    100114: PIVOT - chain_E_02_bind_jnt
+    100116: PIVOT - chain_E_03_bind_jnt
+    100118: PIVOT - CryptStand
+    100120: PIVOT - crystal_bind_jnt
+    100122: PIVOT - HauntedGoldMineDeath DeathLink
+    100124: PIVOT - HauntedMine_Glow
+    100126: PIVOT - Origin Base Ref
+    100128: PIVOT - Origin Ref
+    100130: PIVOT - OverHead Ref
+    100132: PIVOT - root_bind_jnt
+    100134: PIVOT - SNDxDULB
+    100136: PIVOT - SPNxDUME
+    100138: PIVOT - SPNxUDHU
+    100140: PIVOT - Sprite first Ref
+    100142: PIVOT - Sprite fourth Ref
+    100144: PIVOT - Sprite RallyPoint Ref
+    100146: PIVOT - Sprite second Ref
+    100148: PIVOT - Sprite third Ref
+    100150: PIVOT - W3R_ClassicRibbon_0
+    100152: PIVOT - W3R_ClassicRibbon_1
+    100154: PIVOT - W3R_ClassicRibbon_2
+    100156: PIVOT - W3R_ClassicRibbon_3
+    100158: Portrait_Camera.Target.1
+    100160: Portrait_Camera1
+    100162: root_bind_jnt
+    100164: SNDxDULB
+    100166: SPNxDUME
+    100168: SPNxUDHU
+    100170: Sprite first Ref
+    100172: Sprite fourth Ref
+    100174: Sprite RallyPoint Ref
+    100176: Sprite second Ref
+    100178: Sprite third Ref
+    100180: W3R_ClassicRibbon_0
+    100182: W3R_ClassicRibbon_1
+    100184: W3R_ClassicRibbon_2
+    100186: W3R_ClassicRibbon_3
+    400000: 10_undead_hauntedGoldMine_rigmine_geo_LOD1
+    400002: 11_undead_hauntedGoldMine_rigmine_geo_LOD2
+    400004: 12_undead_hauntedGoldMine_rigmine_geo_LOD3
+    400006: 1_undead_hauntedGoldMine_rig:main_geo
+    400008: 2_undead_hauntedGoldMine_rig:main_geo
+    400010: 3_undead_hauntedGoldMine_rig:mine_geo
+    400012: 4_undead_hauntedGoldMine_rigmain_geo_LOD1
+    400014: 5_undead_hauntedGoldMine_rigmain_geo_LOD1
+    400016: 6_undead_hauntedGoldMine_rigmain_geo_LOD2
+    400018: 7_undead_hauntedGoldMine_rigmain_geo_LOD2
+    400020: 8_undead_hauntedGoldMine_rigmain_geo_LOD3
+    400022: 9_undead_hauntedGoldMine_rigmain_geo_LOD3
+    400024: B_KGS_BoxCol_0
+    400026: B_KGS_BoxCol_1
+    400028: base_bind_jnt
+    400030: BirthLink
+    400032: chain_A_01_bind_jnt
+    400034: chain_A_02_bind_jnt
+    400036: chain_A_03_bind_jnt
+    400038: chain_B_01_bind_jnt
+    400040: chain_B_02_bind_jnt
+    400042: chain_B_03_bind_jnt
+    400044: chain_C_01_bind_jnt
+    400046: chain_C_02_bind_jnt
+    400048: chain_C_03_bind_jnt
+    400050: chain_D_01_bind_jnt
+    400052: chain_D_02_bind_jnt
+    400054: chain_D_03_bind_jnt
+    400056: chain_E_01_bind_jnt
+    400058: chain_E_02_bind_jnt
+    400060: chain_E_03_bind_jnt
+    400062: CryptStand
+    400064: crystal_bind_jnt
+    400066: HauntedGoldMineDeath DeathLink
+    400068: HauntedMine
+    400070: //RootNode
+    400072: HauntedMine_Glow
+    400074: Origin Base Ref
+    400076: Origin Ref
+    400078: OverHead Ref
+    400080: PIVOT - B_KGS_BoxCol_0
+    400082: PIVOT - B_KGS_BoxCol_1
+    400084: PIVOT - base_bind_jnt
+    400086: PIVOT - BirthLink
+    400088: PIVOT - chain_A_01_bind_jnt
+    400090: PIVOT - chain_A_02_bind_jnt
+    400092: PIVOT - chain_A_03_bind_jnt
+    400094: PIVOT - chain_B_01_bind_jnt
+    400096: PIVOT - chain_B_02_bind_jnt
+    400098: PIVOT - chain_B_03_bind_jnt
+    400100: PIVOT - chain_C_01_bind_jnt
+    400102: PIVOT - chain_C_02_bind_jnt
+    400104: PIVOT - chain_C_03_bind_jnt
+    400106: PIVOT - chain_D_01_bind_jnt
+    400108: PIVOT - chain_D_02_bind_jnt
+    400110: PIVOT - chain_D_03_bind_jnt
+    400112: PIVOT - chain_E_01_bind_jnt
+    400114: PIVOT - chain_E_02_bind_jnt
+    400116: PIVOT - chain_E_03_bind_jnt
+    400118: PIVOT - CryptStand
+    400120: PIVOT - crystal_bind_jnt
+    400122: PIVOT - HauntedGoldMineDeath DeathLink
+    400124: PIVOT - HauntedMine_Glow
+    400126: PIVOT - Origin Base Ref
+    400128: PIVOT - Origin Ref
+    400130: PIVOT - OverHead Ref
+    400132: PIVOT - root_bind_jnt
+    400134: PIVOT - SNDxDULB
+    400136: PIVOT - SPNxDUME
+    400138: PIVOT - SPNxUDHU
+    400140: PIVOT - Sprite first Ref
+    400142: PIVOT - Sprite fourth Ref
+    400144: PIVOT - Sprite RallyPoint Ref
+    400146: PIVOT - Sprite second Ref
+    400148: PIVOT - Sprite third Ref
+    400150: PIVOT - W3R_ClassicRibbon_0
+    400152: PIVOT - W3R_ClassicRibbon_1
+    400154: PIVOT - W3R_ClassicRibbon_2
+    400156: PIVOT - W3R_ClassicRibbon_3
+    400158: Portrait_Camera.Target.1
+    400160: Portrait_Camera1
+    400162: root_bind_jnt
+    400164: SNDxDULB
+    400166: SPNxDUME
+    400168: SPNxUDHU
+    400170: Sprite first Ref
+    400172: Sprite fourth Ref
+    400174: Sprite RallyPoint Ref
+    400176: Sprite second Ref
+    400178: Sprite third Ref
+    400180: W3R_ClassicRibbon_0
+    400182: W3R_ClassicRibbon_1
+    400184: W3R_ClassicRibbon_2
+    400186: W3R_ClassicRibbon_3
+    2000000: Portrait_Camera1
+    2100000: No Name
+    2300000: B_KGS_BoxCol_0
+    2300002: B_KGS_BoxCol_1
+    3300000: B_KGS_BoxCol_0
+    3300002: B_KGS_BoxCol_1
+    4300000: 1_undead_hauntedGoldMine_rig:main_geo
+    4300002: 2_undead_hauntedGoldMine_rig:main_geo
+    4300004: 3_undead_hauntedGoldMine_rig:mine_geo
+    4300006: 4_undead_hauntedGoldMine_rigmain_geo_LOD1
+    4300008: 5_undead_hauntedGoldMine_rigmain_geo_LOD1
+    4300010: 6_undead_hauntedGoldMine_rigmain_geo_LOD2
+    4300012: 7_undead_hauntedGoldMine_rigmain_geo_LOD2
+    4300014: 8_undead_hauntedGoldMine_rigmain_geo_LOD3
+    4300016: 9_undead_hauntedGoldMine_rigmain_geo_LOD3
+    4300018: 10_undead_hauntedGoldMine_rigmine_geo_LOD1
+    4300020: 11_undead_hauntedGoldMine_rigmine_geo_LOD2
+    4300022: 12_undead_hauntedGoldMine_rigmine_geo_LOD3
+    4300024: B_KGS_BoxCol_0
+    4300026: B_KGS_BoxCol_1
+    7400000: Birth
+    7400002: Stand 1
+    7400004: Death 1
+    7400006: Decay
+    9500000: //RootNode
+    13700000: 10_undead_hauntedGoldMine_rigmine_geo_LOD1
+    13700002: 11_undead_hauntedGoldMine_rigmine_geo_LOD2
+    13700004: 12_undead_hauntedGoldMine_rigmine_geo_LOD3
+    13700006: 1_undead_hauntedGoldMine_rig:main_geo
+    13700008: 2_undead_hauntedGoldMine_rig:main_geo
+    13700010: 3_undead_hauntedGoldMine_rig:mine_geo
+    13700012: 4_undead_hauntedGoldMine_rigmain_geo_LOD1
+    13700014: 5_undead_hauntedGoldMine_rigmain_geo_LOD1
+    13700016: 6_undead_hauntedGoldMine_rigmain_geo_LOD2
+    13700018: 7_undead_hauntedGoldMine_rigmain_geo_LOD2
+    13700020: 8_undead_hauntedGoldMine_rigmain_geo_LOD3
+    13700022: 9_undead_hauntedGoldMine_rigmain_geo_LOD3
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Birth
+      takeName: 
+      firstFrame: 10
+      lastFrame: 1810
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stand 1
+      takeName: 
+      firstFrame: 1811
+      lastFrame: 2011
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death 1
+      takeName: 
+      firstFrame: 2012
+      lastFrame: 2107
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Decay
+      takeName: 
+      firstFrame: 2108
+      lastFrame: 3908
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

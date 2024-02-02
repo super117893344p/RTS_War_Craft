@@ -1,0 +1,379 @@
+Using pre-set license
+Built from '2023.2/china_unity/7f1' branch; Version is '2023.2.7f1c1 (1abbebd69101) revision 1752043'; Using compiler version '193431935'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit CoreCountrySpecific' Language: 'zh' Physical Memory: 32472 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+A:\UNIty\Unity_editor\2023.2.7f1c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker3
+-projectPath
+A:/Google/魔兽争霸/War3Project
+-logFile
+Logs/AssetImportWorker3.log
+-srvPort
+55245
+-job-worker-count
+9
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+Successfully changed project path to: A:/Google/魔兽争霸/War3Project
+A:/Google/魔兽争霸/War3Project
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [229936] Host "[IP] 192.168.154.1 [Port] 0 [Flags] 2 [Guid] 3605495466 [EditorId] 3605495466 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-Q95652Q) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [229936] Host "[IP] 192.168.154.1 [Port] 0 [Flags] 2 [Guid] 3605495466 [EditorId] 3605495466 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-Q95652Q) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 9
+[Physics::Module] Initialized MultithreadedJobDispatcher with 9 workers.
+Library Redirect Path: Library/
+Refreshing native plugins compatible for Editor in 1.03 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2023.2.7f1c1 (1abbebd69101)
+[Subsystems] Discovering subsystems at path A:/UNIty/Unity_editor/2023.2.7f1c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path A:/Google/魔兽争霸/War3Project/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2520)
+    Vendor:   NVIDIA
+    VRAM:     6009 MB
+    Driver:   31.0.15.3598
+Initialize mono
+Mono path[0] = 'A:/UNIty/Unity_editor/2023.2.7f1c1/Editor/Data/Managed'
+Mono path[1] = 'A:/UNIty/Unity_editor/2023.2.7f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'A:/UNIty/Unity_editor/2023.2.7f1c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56864
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Registering precompiled unity dll's ...
+Register platform support module: A:/UNIty/Unity_editor/2023.2.7f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: A:/UNIty/Unity_editor/2023.2.7f1c1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.002683 seconds.
+- Loaded All Assemblies, in  0.481 seconds
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 695 ms
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Finished resetting the current domain, in  1.140 seconds
+Domain Reload Profiling: 1621ms
+	BeginReloadAssembly (185ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (41ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (56ms)
+	LoadAllAssembliesAndSetupDomain (186ms)
+		LoadAssemblies (184ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (183ms)
+			TypeCache.Refresh (181ms)
+				TypeCache.ScanAssembly (165ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (1140ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1077ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (844ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (11ms)
+			ProcessInitializeOnLoadAttributes (158ms)
+			ProcessInitializeOnLoadMethodAttributes (61ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image A:\Google\魔兽争霸\War3Project\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image A:\Google\魔兽争霸\War3Project\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.939 seconds
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.878 seconds
+Domain Reload Profiling: 1818ms
+	BeginReloadAssembly (391ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (37ms)
+	RebuildCommonClasses (39ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (43ms)
+	LoadAllAssembliesAndSetupDomain (453ms)
+		LoadAssemblies (416ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (164ms)
+			TypeCache.Refresh (130ms)
+				TypeCache.ScanAssembly (109ms)
+			BuildScriptInfoCaches (25ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (879ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (643ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (24ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (31ms)
+			ProcessInitializeOnLoadAttributes (560ms)
+			ProcessInitializeOnLoadMethodAttributes (22ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.74 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 11 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3064 unused Assets / (1.2 MB). Loaded Objects now: 3639.
+Memory consumption went from 121.5 MB to 120.3 MB.
+Total: 10.708500 ms (FindLiveObjects: 0.467100 ms CreateObjectMapping: 0.569900 ms MarkObjects: 7.761900 ms  DeleteObjects: 1.906800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 475174.222967 seconds.
+  path: Assets/ArtPackage/WAR3/Undead/Units/acolyte/Materials/Textures/undead_acolyte_main_normal.png
+  artifactKey: Guid(b1248c205c3885f4b89a5889ef39fca1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/ArtPackage/WAR3/Undead/Units/acolyte/Materials/Textures/undead_acolyte_main_normal.png using Guid(b1248c205c3885f4b89a5889ef39fca1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '3c477fb50a9619a2d0f5ba0bc067890a') in 0.1812371 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/ArtPackage/WAR3/Scene/Plant/ashencanopytree/ashencanopytree1 (2).prefab
+  artifactKey: Guid(c42b2b0d6e9d46243944484bb69bb932) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/ArtPackage/WAR3/Scene/Plant/ashencanopytree/ashencanopytree1 (2).prefab using Guid(c42b2b0d6e9d46243944484bb69bb932) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ae7e3cb5e984739311fbd2d74998fac4') in 0.036499 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 109
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/ArtPackage/WAR3/Undead/Units/ghoul/Materials/Textures/undead_ghoul_hair_normal.png
+  artifactKey: Guid(8448eb900bfb7834dacfe1ca50bd0945) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/ArtPackage/WAR3/Undead/Units/ghoul/Materials/Textures/undead_ghoul_hair_normal.png using Guid(8448eb900bfb7834dacfe1ca50bd0945) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'afd7d665def1c75120da9db28bbaa181') in 0.0173899 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/ArtPackage/WAR3/Undead/Buildings/templeofthedamned/Materials/Textures/undead_templeofthedamned_emissive.png
+  artifactKey: Guid(a01b09f1d313ffd4c95472647a1876ba) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/ArtPackage/WAR3/Undead/Buildings/templeofthedamned/Materials/Textures/undead_templeofthedamned_emissive.png using Guid(a01b09f1d313ffd4c95472647a1876ba) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b4a3c31cb818bc96f96ccb1c74e568e2') in 0.0179961 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/ArtPackage/WAR3/Undead/Hero/undeadarthas/FBX/Stand 1.anim
+  artifactKey: Guid(bc18d3ba6d1586e4aad70b7cb69eb9b3) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/ArtPackage/WAR3/Undead/Hero/undeadarthas/FBX/Stand 1.anim using Guid(bc18d3ba6d1586e4aad70b7cb69eb9b3) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '800e2fc0bbd43d3564f7d592d9632e11') in 0.0396582 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/ArtPackage/WAR3/Undead/Units/abomination/FBX/Death 1.anim
+  artifactKey: Guid(25c88ac300a6f214b91b9b0de3a752c9) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/ArtPackage/WAR3/Undead/Units/abomination/FBX/Death 1.anim using Guid(25c88ac300a6f214b91b9b0de3a752c9) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8b44c43bb2d44ace6b2152bc9409b731') in 0.0492215 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/ArtPackage/WAR3/Scene/Plant/ashenlillypad/ashenlillypad.prefab
+  artifactKey: Guid(16ee27d175008a7449547b75251acda5) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/ArtPackage/WAR3/Scene/Plant/ashenlillypad/ashenlillypad.prefab using Guid(16ee27d175008a7449547b75251acda5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '07f4ff095d465e01f59f4a78c3d53d1c') in 0.0076792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 38
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/ArtPackage/WAR3/Undead/Hero/undeadarthas/FBX/Cinematic Standard One.anim
+  artifactKey: Guid(5b4059f0da3c2fe4eafd79ce9104d313) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/ArtPackage/WAR3/Undead/Hero/undeadarthas/FBX/Cinematic Standard One.anim using Guid(5b4059f0da3c2fe4eafd79ce9104d313) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c04508aeca44902e59c7b4d0399be2b9') in 0.037292 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/ArtPackage/WAR3/Undead/Units/ghoul/FBX/Stand 3.anim
+  artifactKey: Guid(04ec08d4d41a0de4e8a76563c588345e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/ArtPackage/WAR3/Undead/Units/ghoul/FBX/Stand 3.anim using Guid(04ec08d4d41a0de4e8a76563c588345e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8ea262282120446513dda9af9fabc6aa') in 0.0246895 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/ArtPackage/WAR3/Scene/Plant/ashenhollowstump/Materials/Textures/av_environment_stumphollow_diffuse.png
+  artifactKey: Guid(4828bd655f1ecf149ba34798473ad765) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/ArtPackage/WAR3/Scene/Plant/ashenhollowstump/Materials/Textures/av_environment_stumphollow_diffuse.png using Guid(4828bd655f1ecf149ba34798473ad765) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '83865d75c5213042b22d9508657e18db') in 0.0150459 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/ArtPackage/WAR3/Undead/Units/acolyte/Materials/Textures/undead_acolyte_pauldron_diffuse.png
+  artifactKey: Guid(b10c02618e5b3de489a0f5dc344d6cd1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/ArtPackage/WAR3/Undead/Units/acolyte/Materials/Textures/undead_acolyte_pauldron_diffuse.png using Guid(b10c02618e5b3de489a0f5dc344d6cd1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7fe33c48c513cdbb8e0a358eb9984cca') in 0.0140073 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/ArtPackage/WAR3/Undead/Units/acolyte/Materials/Textures/undead_acolyte_main_orm.png
+  artifactKey: Guid(d56d8ae2bf82dc447be08ad47e4099c3) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/ArtPackage/WAR3/Undead/Units/acolyte/Materials/Textures/undead_acolyte_main_orm.png using Guid(d56d8ae2bf82dc447be08ad47e4099c3) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'da283efdeb088912a64bbb984bf3f787') in 0.0137741 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/ArtPackage/WAR3/Undead/Buildings/slaughterhouse/slaughterhouse.controller
+  artifactKey: Guid(4f38d4f5e8718124dbb42750ed4adb19) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/ArtPackage/WAR3/Undead/Buildings/slaughterhouse/slaughterhouse.controller using Guid(4f38d4f5e8718124dbb42750ed4adb19) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd237b91e325da1da2b7882c56aa8cc66') in 0.0272147 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/ArtPackage/WAR3/Undead/Hero/undeadarthas/FBX/Cinematic Attack One.anim
+  artifactKey: Guid(96a6e4c4c95b2ab4e8626db3451610ac) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/ArtPackage/WAR3/Undead/Hero/undeadarthas/FBX/Cinematic Attack One.anim using Guid(96a6e4c4c95b2ab4e8626db3451610ac) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '41182465dfa278751bd1e12e480b6ee8') in 0.0289009 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.97 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3057 unused Assets / (0.6 MB). Loaded Objects now: 3641.
+Memory consumption went from 118.6 MB to 118.0 MB.
+Total: 95.990200 ms (FindLiveObjects: 1.230700 ms CreateObjectMapping: 0.269800 ms MarkObjects: 93.580800 ms  DeleteObjects: 0.906700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 4594.119835 seconds.
+  path: Assets/Scripts/My_Rewriting_Script/Mining.cs
+  artifactKey: Guid(81f55f5b989ed3e4fa30e2702c838461) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scripts/My_Rewriting_Script/Mining.cs using Guid(81f55f5b989ed3e4fa30e2702c838461) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ca56126b9231a90150165c8418f8af67') in 0.0426762 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Scripts/My_Rewriting_Script/Building_Architect.cs
+  artifactKey: Guid(5a62359728f8aa34fa298b403ff55081) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scripts/My_Rewriting_Script/Building_Architect.cs using Guid(5a62359728f8aa34fa298b403ff55081) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ff20d1e4c7c8b95036237959d76cd3bb') in 0.0062774 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3057 unused Assets / (0.8 MB). Loaded Objects now: 3641.
+Memory consumption went from 118.6 MB to 117.8 MB.
+Total: 6.587100 ms (FindLiveObjects: 0.469500 ms CreateObjectMapping: 0.232200 ms MarkObjects: 4.832000 ms  DeleteObjects: 1.051500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3057 unused Assets / (0.8 MB). Loaded Objects now: 3641.
+Memory consumption went from 118.6 MB to 117.8 MB.
+Total: 6.586200 ms (FindLiveObjects: 0.524700 ms CreateObjectMapping: 0.303400 ms MarkObjects: 4.848900 ms  DeleteObjects: 0.907800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

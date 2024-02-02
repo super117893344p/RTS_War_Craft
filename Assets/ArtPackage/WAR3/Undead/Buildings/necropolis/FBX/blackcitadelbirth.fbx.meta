@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: 108db980fc2df894ba4e48336673dbdd
+timeCreated: 1587981681
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 1_undead_necropolis_rig:bc_main_geo
+    100002: 2_undead_necropolis_rig:bc_water_geo
+    100004: 3_undead_necropolis_rigbc_main_geo_LOD1
+    100006: 4_undead_necropolis_rigbc_main_geo_LOD2
+    100008: 5_undead_necropolis_rigbc_main_geo_LOD3
+    100010: 6_undead_necropolis_rigbc_water_geo_LOD1
+    100012: 7_undead_necropolis_rigbc_water_geo_LOD2
+    100014: 8_undead_necropolis_rigbc_water_geo_LOD3
+    100016: B_KGS_BoxCol_0
+    100018: B_KGS_BoxCol_1
+    100020: bc_chain_A_01_bind_jnt
+    100022: bc_chain_A_02_bind_jnt
+    100024: bc_chain_B_01_bind_jnt
+    100026: bc_chain_B_02_bind_jnt
+    100028: bc_chain_C_01_bind_jnt
+    100030: bc_chain_C_02_bind_jnt
+    100032: bc_chain_C_03_bind_jnt
+    100034: bc_chain_D_01_bind_jnt
+    100036: bc_chain_D_02_bind_jnt
+    100038: bc_chain_D_03_bind_jnt
+    100040: bc_chain_E_01_bind_jnt
+    100042: bc_chain_E_02_bind_jnt
+    100044: bc_chain_E_03_bind_jnt
+    100046: bc_chain_F_01_bind_jnt
+    100048: bc_chain_F_02_bind_jnt
+    100050: bc_chain_F_03_bind_jnt
+    100052: bc_cog_bind_jnt
+    100054: bc_head_01_bind_jnt
+    100056: bc_head_02_bind_jnt
+    100058: bc_head_03_bind_jnt
+    100060: bc_head_04_bind_jnt
+    100062: bc_moon_01_bind_jnt
+    100064: bc_moon_02_bind_jnt
+    100066: bc_water_geo
+    100068: BlackCitadelBirth
+    100070: //RootNode
+    100072: Necropolis_Splash
+    100074: Necropolis_Splash1
+    100076: Necropolis_Splash2
+    100078: Necropolis_Tower
+    100080: Necropolis_Upgrade
+    100082: Origin Ref
+    100084: OverHead Ref
+    100086: PIVOT - B_KGS_BoxCol_0
+    100088: PIVOT - B_KGS_BoxCol_1
+    100090: PIVOT - bc_chain_A_01_bind_jnt
+    100092: PIVOT - bc_chain_A_02_bind_jnt
+    100094: PIVOT - bc_chain_B_01_bind_jnt
+    100096: PIVOT - bc_chain_B_02_bind_jnt
+    100098: PIVOT - bc_chain_C_01_bind_jnt
+    100100: PIVOT - bc_chain_C_02_bind_jnt
+    100102: PIVOT - bc_chain_C_03_bind_jnt
+    100104: PIVOT - bc_chain_D_01_bind_jnt
+    100106: PIVOT - bc_chain_D_02_bind_jnt
+    100108: PIVOT - bc_chain_D_03_bind_jnt
+    100110: PIVOT - bc_chain_E_01_bind_jnt
+    100112: PIVOT - bc_chain_E_02_bind_jnt
+    100114: PIVOT - bc_chain_E_03_bind_jnt
+    100116: PIVOT - bc_chain_F_01_bind_jnt
+    100118: PIVOT - bc_chain_F_02_bind_jnt
+    100120: PIVOT - bc_chain_F_03_bind_jnt
+    100122: PIVOT - bc_cog_bind_jnt
+    100124: PIVOT - bc_head_01_bind_jnt
+    100126: PIVOT - bc_head_02_bind_jnt
+    100128: PIVOT - bc_head_03_bind_jnt
+    100130: PIVOT - bc_head_04_bind_jnt
+    100132: PIVOT - bc_moon_01_bind_jnt
+    100134: PIVOT - bc_moon_02_bind_jnt
+    100136: PIVOT - bc_water_geo
+    100138: PIVOT - Necropolis_Splash
+    100140: PIVOT - Necropolis_Splash1
+    100142: PIVOT - Necropolis_Splash2
+    100144: PIVOT - Necropolis_Tower
+    100146: PIVOT - Necropolis_Upgrade
+    100148: PIVOT - Origin Ref
+    100150: PIVOT - OverHead Ref
+    100152: PIVOT - S_KGS_SphereCol_0
+    100154: PIVOT - Sprite RallyPoint Ref
+    100156: PIVOT - undead_necropolis_rigbc_water_geo_LOD1
+    100158: PIVOT - undead_necropolis_rigbc_water_geo_LOD2
+    100160: PIVOT - undead_necropolis_rigbc_water_geo_LOD3
+    100162: Portrait_Camera.Target.1
+    100164: Portrait_Camera1
+    100166: S_KGS_SphereCol_0
+    100168: Sprite RallyPoint Ref
+    100170: undead_necropolis_rigbc_water_geo_LOD1
+    100172: undead_necropolis_rigbc_water_geo_LOD2
+    100174: undead_necropolis_rigbc_water_geo_LOD3
+    400000: 1_undead_necropolis_rig:bc_main_geo
+    400002: 2_undead_necropolis_rig:bc_water_geo
+    400004: 3_undead_necropolis_rigbc_main_geo_LOD1
+    400006: 4_undead_necropolis_rigbc_main_geo_LOD2
+    400008: 5_undead_necropolis_rigbc_main_geo_LOD3
+    400010: 6_undead_necropolis_rigbc_water_geo_LOD1
+    400012: 7_undead_necropolis_rigbc_water_geo_LOD2
+    400014: 8_undead_necropolis_rigbc_water_geo_LOD3
+    400016: B_KGS_BoxCol_0
+    400018: B_KGS_BoxCol_1
+    400020: bc_chain_A_01_bind_jnt
+    400022: bc_chain_A_02_bind_jnt
+    400024: bc_chain_B_01_bind_jnt
+    400026: bc_chain_B_02_bind_jnt
+    400028: bc_chain_C_01_bind_jnt
+    400030: bc_chain_C_02_bind_jnt
+    400032: bc_chain_C_03_bind_jnt
+    400034: bc_chain_D_01_bind_jnt
+    400036: bc_chain_D_02_bind_jnt
+    400038: bc_chain_D_03_bind_jnt
+    400040: bc_chain_E_01_bind_jnt
+    400042: bc_chain_E_02_bind_jnt
+    400044: bc_chain_E_03_bind_jnt
+    400046: bc_chain_F_01_bind_jnt
+    400048: bc_chain_F_02_bind_jnt
+    400050: bc_chain_F_03_bind_jnt
+    400052: bc_cog_bind_jnt
+    400054: bc_head_01_bind_jnt
+    400056: bc_head_02_bind_jnt
+    400058: bc_head_03_bind_jnt
+    400060: bc_head_04_bind_jnt
+    400062: bc_moon_01_bind_jnt
+    400064: bc_moon_02_bind_jnt
+    400066: bc_water_geo
+    400068: BlackCitadelBirth
+    400070: //RootNode
+    400072: Necropolis_Splash
+    400074: Necropolis_Splash1
+    400076: Necropolis_Splash2
+    400078: Necropolis_Tower
+    400080: Necropolis_Upgrade
+    400082: Origin Ref
+    400084: OverHead Ref
+    400086: PIVOT - B_KGS_BoxCol_0
+    400088: PIVOT - B_KGS_BoxCol_1
+    400090: PIVOT - bc_chain_A_01_bind_jnt
+    400092: PIVOT - bc_chain_A_02_bind_jnt
+    400094: PIVOT - bc_chain_B_01_bind_jnt
+    400096: PIVOT - bc_chain_B_02_bind_jnt
+    400098: PIVOT - bc_chain_C_01_bind_jnt
+    400100: PIVOT - bc_chain_C_02_bind_jnt
+    400102: PIVOT - bc_chain_C_03_bind_jnt
+    400104: PIVOT - bc_chain_D_01_bind_jnt
+    400106: PIVOT - bc_chain_D_02_bind_jnt
+    400108: PIVOT - bc_chain_D_03_bind_jnt
+    400110: PIVOT - bc_chain_E_01_bind_jnt
+    400112: PIVOT - bc_chain_E_02_bind_jnt
+    400114: PIVOT - bc_chain_E_03_bind_jnt
+    400116: PIVOT - bc_chain_F_01_bind_jnt
+    400118: PIVOT - bc_chain_F_02_bind_jnt
+    400120: PIVOT - bc_chain_F_03_bind_jnt
+    400122: PIVOT - bc_cog_bind_jnt
+    400124: PIVOT - bc_head_01_bind_jnt
+    400126: PIVOT - bc_head_02_bind_jnt
+    400128: PIVOT - bc_head_03_bind_jnt
+    400130: PIVOT - bc_head_04_bind_jnt
+    400132: PIVOT - bc_moon_01_bind_jnt
+    400134: PIVOT - bc_moon_02_bind_jnt
+    400136: PIVOT - bc_water_geo
+    400138: PIVOT - Necropolis_Splash
+    400140: PIVOT - Necropolis_Splash1
+    400142: PIVOT - Necropolis_Splash2
+    400144: PIVOT - Necropolis_Tower
+    400146: PIVOT - Necropolis_Upgrade
+    400148: PIVOT - Origin Ref
+    400150: PIVOT - OverHead Ref
+    400152: PIVOT - S_KGS_SphereCol_0
+    400154: PIVOT - Sprite RallyPoint Ref
+    400156: PIVOT - undead_necropolis_rigbc_water_geo_LOD1
+    400158: PIVOT - undead_necropolis_rigbc_water_geo_LOD2
+    400160: PIVOT - undead_necropolis_rigbc_water_geo_LOD3
+    400162: Portrait_Camera.Target.1
+    400164: Portrait_Camera1
+    400166: S_KGS_SphereCol_0
+    400168: Sprite RallyPoint Ref
+    400170: undead_necropolis_rigbc_water_geo_LOD1
+    400172: undead_necropolis_rigbc_water_geo_LOD2
+    400174: undead_necropolis_rigbc_water_geo_LOD3
+    2000000: Portrait_Camera1
+    2100000: No Name
+    2300000: B_KGS_BoxCol_0
+    2300002: B_KGS_BoxCol_1
+    2300004: S_KGS_SphereCol_0
+    3300000: B_KGS_BoxCol_0
+    3300002: B_KGS_BoxCol_1
+    3300004: S_KGS_SphereCol_0
+    4300000: 1_undead_necropolis_rig:bc_main_geo
+    4300002: 2_undead_necropolis_rig:bc_water_geo
+    4300004: 3_undead_necropolis_rigbc_main_geo_LOD1
+    4300006: 4_undead_necropolis_rigbc_main_geo_LOD2
+    4300008: 5_undead_necropolis_rigbc_main_geo_LOD3
+    4300010: 6_undead_necropolis_rigbc_water_geo_LOD1
+    4300012: 7_undead_necropolis_rigbc_water_geo_LOD2
+    4300014: 8_undead_necropolis_rigbc_water_geo_LOD3
+    4300016: B_KGS_BoxCol_0
+    4300018: B_KGS_BoxCol_1
+    4300020: S_KGS_SphereCol_0
+    7400000: Birth
+    9500000: //RootNode
+    13700000: 1_undead_necropolis_rig:bc_main_geo
+    13700002: 2_undead_necropolis_rig:bc_water_geo
+    13700004: 3_undead_necropolis_rigbc_main_geo_LOD1
+    13700006: 4_undead_necropolis_rigbc_main_geo_LOD2
+    13700008: 5_undead_necropolis_rigbc_main_geo_LOD3
+    13700010: 6_undead_necropolis_rigbc_water_geo_LOD1
+    13700012: 7_undead_necropolis_rigbc_water_geo_LOD2
+    13700014: 8_undead_necropolis_rigbc_water_geo_LOD3
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Birth
+      takeName: 
+      firstFrame: 10
+      lastFrame: 1810
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 45
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,908 @@
+fileFormatVersion: 2
+guid: f74e09bd88182bd44bb733c6a85e415f
+timeCreated: 1585213497
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 1_undead_ghoul_rig_ingame:main_geo
+    100002: 2_undead_ghoul_rig_ingame:main_geo
+    100004: 3_undead_ghoul_rig_ingame:hair_geo
+    100006: 4_undead_ghoul_rig_ingame:wood_geo
+    100008: 5_undead_ghoul_rig_ingame:skeleton_geo
+    100010: B_loincloth_01_bind_jnt
+    100012: B_loincloth_02_bind_jnt
+    100014: B_loincloth_03_bind_jnt
+    100016: bone_chest
+    100018: bone_hand_left
+    100020: bone_hand_right
+    100022: bone_head
+    100024: bone_leg_left
+    100026: bone_leg_right
+    100028: bone_turret
+    100030: F_loincloth_01_bind_jnt
+    100032: F_loincloth_02_bind_jnt
+    100034: F_loincloth_03_bind_jnt
+    100036: //RootNode
+    100038: hd_anim_bind_jnt
+    100040: jaw_bind_jnt
+    100042: L_arm_cloth_A_01_bind_jnt
+    100044: L_arm_cloth_A_02_bind_jnt
+    100046: L_arm_cloth_B_01_bind_jnt
+    100048: L_cheek_02_bind_jnt
+    100050: L_cheek_03_bind_jnt
+    100052: L_cheek_bind_jnt
+    100054: L_cloth_01_bind_jnt
+    100056: L_eye_bind_jnt
+    100058: L_hair_01_bind_jnt
+    100060: L_hair_02_bind_jnt
+    100062: L_hair_03_bind_jnt
+    100064: L_ind_finger_01_bind_jnt
+    100066: L_ind_finger_02_bind_jnt
+    100068: L_ind_finger_03_bind_jnt
+    100070: L_inr_eyebrow_bind_jnt
+    100072: L_leg_01_bind_jnt
+    100074: L_leg_02_bind_jnt
+    100076: L_leg_04_bind_jnt
+    100078: L_lwr_arm_bind_jnt
+    100080: L_lwr_arm_twist_01_bind_jnt
+    100082: L_lwr_arm_twist_02_bind_jnt
+    100084: L_lwr_eyelid_bind_jnt
+    100086: L_lwr_teeth_01_bind_jnt
+    100088: L_lwr_teeth_02_bind_jnt
+    100090: L_lwr_teeth_03_bind_jnt
+    100092: L_lwr_teeth_04_bind_jnt
+    100094: L_lwr_teeth_05_bind_jnt
+    100096: L_lwr_teeth_06_bind_jnt
+    100098: L_mid_eyebrow_bind_jnt
+    100100: L_mid_finger_01_bind_jnt
+    100102: L_mid_finger_02_bind_jnt
+    100104: L_mid_finger_03_bind_jnt
+    100106: L_nostril_bind_jnt
+    100108: L_otr_eyebrow_bind_jnt
+    100110: L_pnk_finger_01_bind_jnt
+    100112: L_pnk_finger_02_bind_jnt
+    100114: L_pnk_finger_03_bind_jnt
+    100116: L_shoulder_bind_jnt
+    100118: L_tmb_01_bind_jnt
+    100120: L_tmb_02_bind_jnt
+    100122: L_tmb_03_bind_jnt
+    100124: L_upr_arm_bind_jnt
+    100126: L_upr_eyelid_bind_jnt
+    100128: L_upr_teeth_01_bind_jnt
+    100130: L_upr_teeth_02_bind_jnt
+    100132: L_upr_teeth_03_bind_jnt
+    100134: L_upr_teeth_04_bind_jnt
+    100136: L_upr_teeth_05_bind_jnt
+    100138: M_cloth_01_bind_jnt
+    100140: M_cloth_02_bind_jnt
+    100142: neck_bind_jnt
+    100144: nose_bind_jnt
+    100146: pelvis_bind_jnt
+    100148: R_arm_cloth_A_01_bind_jnt
+    100150: R_arm_cloth_A_02_bind_jnt
+    100152: R_arm_cloth_A_03_bind_jnt
+    100154: R_cheek_02_bind_jnt
+    100156: R_cheek_03_bind_jnt
+    100158: R_cheek_bind_jnt
+    100160: R_cloth_01_bind_jnt
+    100162: R_eye_bind_jnt
+    100164: R_hair_01_bind_jnt
+    100166: R_hair_02_bind_jnt
+    100168: R_hair_03_bind_jnt
+    100170: R_ind_finger_01_bind_jnt
+    100172: R_ind_finger_02_bind_jnt
+    100174: R_ind_finger_03_bind_jnt
+    100176: R_inr_eyebrow_bind_jnt
+    100178: R_leg_01_bind_jnt
+    100180: R_leg_02_bind_jnt
+    100182: R_leg_04_bind_jnt
+    100184: R_lwr_arm_bind_jnt
+    100186: R_lwr_arm_twist_01_bind_jnt
+    100188: R_lwr_arm_twist_02_bind_jnt
+    100190: R_lwr_eyelid_bind_jnt
+    100192: R_lwr_teeth_01_bind_jnt
+    100194: R_lwr_teeth_02_bind_jnt
+    100196: R_lwr_teeth_03_bind_jnt
+    100198: R_lwr_teeth_04_bind_jnt
+    100200: R_lwr_teeth_05_bind_jnt
+    100202: R_mid_eyebrow_bind_jnt
+    100204: R_mid_finger_01_bind_jnt
+    100206: R_mid_finger_02_bind_jnt
+    100208: R_mid_finger_03_bind_jnt
+    100210: R_nostril_bind_jnt
+    100212: R_otr_eyebrow_bind_jnt
+    100214: R_pnk_finger_01_bind_jnt
+    100216: R_pnk_finger_02_bind_jnt
+    100218: R_pnk_finger_03_bind_jnt
+    100220: R_shoulder_bind_jnt
+    100222: R_tmb_01_bind_jnt
+    100224: R_tmb_02_bind_jnt
+    100226: R_tmb_03_bind_jnt
+    100228: R_upr_arm_bind_jnt
+    100230: R_upr_eyelid_bind_jnt
+    100232: R_upr_teeth_01_bind_jnt
+    100234: R_upr_teeth_02_bind_jnt
+    100236: R_upr_teeth_03_bind_jnt
+    100238: R_upr_teeth_04_bind_jnt
+    100240: R_upr_teeth_05_bind_jnt
+    100242: R_upr_teeth_06_bind_jnt
+    100244: spine_02_bind_jnt
+    100246: spine_03_bind_jnt
+    100248: tongue_01_bind_jnt
+    100250: tongue_02_bind_jnt
+    100252: tongue_03_bind_jnt
+    100254: tongue_04_bind_jnt
+    100256: wood_bundle_bind_jnt
+    400000: 1_undead_ghoul_rig_ingame:main_geo
+    400002: 2_undead_ghoul_rig_ingame:main_geo
+    400004: 3_undead_ghoul_rig_ingame:hair_geo
+    400006: 4_undead_ghoul_rig_ingame:wood_geo
+    400008: 5_undead_ghoul_rig_ingame:skeleton_geo
+    400010: B_loincloth_01_bind_jnt
+    400012: B_loincloth_02_bind_jnt
+    400014: B_loincloth_03_bind_jnt
+    400016: bone_chest
+    400018: bone_hand_left
+    400020: bone_hand_right
+    400022: bone_head
+    400024: bone_leg_left
+    400026: bone_leg_right
+    400028: bone_turret
+    400030: F_loincloth_01_bind_jnt
+    400032: F_loincloth_02_bind_jnt
+    400034: F_loincloth_03_bind_jnt
+    400036: //RootNode
+    400038: hd_anim_bind_jnt
+    400040: jaw_bind_jnt
+    400042: L_arm_cloth_A_01_bind_jnt
+    400044: L_arm_cloth_A_02_bind_jnt
+    400046: L_arm_cloth_B_01_bind_jnt
+    400048: L_cheek_02_bind_jnt
+    400050: L_cheek_03_bind_jnt
+    400052: L_cheek_bind_jnt
+    400054: L_cloth_01_bind_jnt
+    400056: L_eye_bind_jnt
+    400058: L_hair_01_bind_jnt
+    400060: L_hair_02_bind_jnt
+    400062: L_hair_03_bind_jnt
+    400064: L_ind_finger_01_bind_jnt
+    400066: L_ind_finger_02_bind_jnt
+    400068: L_ind_finger_03_bind_jnt
+    400070: L_inr_eyebrow_bind_jnt
+    400072: L_leg_01_bind_jnt
+    400074: L_leg_02_bind_jnt
+    400076: L_leg_04_bind_jnt
+    400078: L_lwr_arm_bind_jnt
+    400080: L_lwr_arm_twist_01_bind_jnt
+    400082: L_lwr_arm_twist_02_bind_jnt
+    400084: L_lwr_eyelid_bind_jnt
+    400086: L_lwr_teeth_01_bind_jnt
+    400088: L_lwr_teeth_02_bind_jnt
+    400090: L_lwr_teeth_03_bind_jnt
+    400092: L_lwr_teeth_04_bind_jnt
+    400094: L_lwr_teeth_05_bind_jnt
+    400096: L_lwr_teeth_06_bind_jnt
+    400098: L_mid_eyebrow_bind_jnt
+    400100: L_mid_finger_01_bind_jnt
+    400102: L_mid_finger_02_bind_jnt
+    400104: L_mid_finger_03_bind_jnt
+    400106: L_nostril_bind_jnt
+    400108: L_otr_eyebrow_bind_jnt
+    400110: L_pnk_finger_01_bind_jnt
+    400112: L_pnk_finger_02_bind_jnt
+    400114: L_pnk_finger_03_bind_jnt
+    400116: L_shoulder_bind_jnt
+    400118: L_tmb_01_bind_jnt
+    400120: L_tmb_02_bind_jnt
+    400122: L_tmb_03_bind_jnt
+    400124: L_upr_arm_bind_jnt
+    400126: L_upr_eyelid_bind_jnt
+    400128: L_upr_teeth_01_bind_jnt
+    400130: L_upr_teeth_02_bind_jnt
+    400132: L_upr_teeth_03_bind_jnt
+    400134: L_upr_teeth_04_bind_jnt
+    400136: L_upr_teeth_05_bind_jnt
+    400138: M_cloth_01_bind_jnt
+    400140: M_cloth_02_bind_jnt
+    400142: neck_bind_jnt
+    400144: nose_bind_jnt
+    400146: pelvis_bind_jnt
+    400148: R_arm_cloth_A_01_bind_jnt
+    400150: R_arm_cloth_A_02_bind_jnt
+    400152: R_arm_cloth_A_03_bind_jnt
+    400154: R_cheek_02_bind_jnt
+    400156: R_cheek_03_bind_jnt
+    400158: R_cheek_bind_jnt
+    400160: R_cloth_01_bind_jnt
+    400162: R_eye_bind_jnt
+    400164: R_hair_01_bind_jnt
+    400166: R_hair_02_bind_jnt
+    400168: R_hair_03_bind_jnt
+    400170: R_ind_finger_01_bind_jnt
+    400172: R_ind_finger_02_bind_jnt
+    400174: R_ind_finger_03_bind_jnt
+    400176: R_inr_eyebrow_bind_jnt
+    400178: R_leg_01_bind_jnt
+    400180: R_leg_02_bind_jnt
+    400182: R_leg_04_bind_jnt
+    400184: R_lwr_arm_bind_jnt
+    400186: R_lwr_arm_twist_01_bind_jnt
+    400188: R_lwr_arm_twist_02_bind_jnt
+    400190: R_lwr_eyelid_bind_jnt
+    400192: R_lwr_teeth_01_bind_jnt
+    400194: R_lwr_teeth_02_bind_jnt
+    400196: R_lwr_teeth_03_bind_jnt
+    400198: R_lwr_teeth_04_bind_jnt
+    400200: R_lwr_teeth_05_bind_jnt
+    400202: R_mid_eyebrow_bind_jnt
+    400204: R_mid_finger_01_bind_jnt
+    400206: R_mid_finger_02_bind_jnt
+    400208: R_mid_finger_03_bind_jnt
+    400210: R_nostril_bind_jnt
+    400212: R_otr_eyebrow_bind_jnt
+    400214: R_pnk_finger_01_bind_jnt
+    400216: R_pnk_finger_02_bind_jnt
+    400218: R_pnk_finger_03_bind_jnt
+    400220: R_shoulder_bind_jnt
+    400222: R_tmb_01_bind_jnt
+    400224: R_tmb_02_bind_jnt
+    400226: R_tmb_03_bind_jnt
+    400228: R_upr_arm_bind_jnt
+    400230: R_upr_eyelid_bind_jnt
+    400232: R_upr_teeth_01_bind_jnt
+    400234: R_upr_teeth_02_bind_jnt
+    400236: R_upr_teeth_03_bind_jnt
+    400238: R_upr_teeth_04_bind_jnt
+    400240: R_upr_teeth_05_bind_jnt
+    400242: R_upr_teeth_06_bind_jnt
+    400244: spine_02_bind_jnt
+    400246: spine_03_bind_jnt
+    400248: tongue_01_bind_jnt
+    400250: tongue_02_bind_jnt
+    400252: tongue_03_bind_jnt
+    400254: tongue_04_bind_jnt
+    400256: wood_bundle_bind_jnt
+    2100000: No Name
+    4300000: 1_undead_ghoul_rig_ingame:main_geo
+    4300002: 2_undead_ghoul_rig_ingame:main_geo
+    4300004: 3_undead_ghoul_rig_ingame:hair_geo
+    4300006: 4_undead_ghoul_rig_ingame:wood_geo
+    4300008: 5_undead_ghoul_rig_ingame:skeleton_geo
+    7400000: Stand 2
+    7400002: Walk 1
+    7400004: Stand 1
+    7400006: Attack 2
+    7400008: Stand 3
+    7400010: Attack 1
+    7400012: Death 1
+    7400014: Decay Flesh
+    7400016: Decay Bone
+    7400018: Stand Ready 1
+    7400020: Stand Victory 1
+    7400022: Stand Channel 1
+    7400024: Stand Lumber 1
+    7400026: Attack Lumber 1
+    7400028: Walk Lumber 1
+    7400030: Stand Ready Lumber 1
+    7400032: Stand Channel Lumber 1
+    7400034: Cinematic Stand
+    7400036: Cinematic Walk One
+    9500000: //RootNode
+    13700000: 1_undead_ghoul_rig_ingame:main_geo
+    13700002: 2_undead_ghoul_rig_ingame:main_geo
+    13700004: 3_undead_ghoul_rig_ingame:hair_geo
+    13700006: 4_undead_ghoul_rig_ingame:wood_geo
+    13700008: 5_undead_ghoul_rig_ingame:skeleton_geo
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Stand 2
+      takeName: 
+      firstFrame: 10
+      lastFrame: 71
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk 1
+      takeName: 
+      firstFrame: 72
+      lastFrame: 92
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stand 1
+      takeName: 
+      firstFrame: 93
+      lastFrame: 143
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack 2
+      takeName: 
+      firstFrame: 144
+      lastFrame: 169
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stand 3
+      takeName: 
+      firstFrame: 170
+      lastFrame: 255
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack 1
+      takeName: 
+      firstFrame: 256
+      lastFrame: 281
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death 1
+      takeName: 
+      firstFrame: 282
+      lastFrame: 331
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Decay Flesh
+      takeName: 
+      firstFrame: 332
+      lastFrame: 2132
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Decay Bone
+      takeName: 
+      firstFrame: 2133
+      lastFrame: 3933
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stand Ready 1
+      takeName: 
+      firstFrame: 3934
+      lastFrame: 3964
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stand Victory 1
+      takeName: 
+      firstFrame: 3965
+      lastFrame: 4065
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stand Channel 1
+      takeName: 
+      firstFrame: 4066
+      lastFrame: 4096
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stand Lumber 1
+      takeName: 
+      firstFrame: 4097
+      lastFrame: 4127
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack Lumber 1
+      takeName: 
+      firstFrame: 4128
+      lastFrame: 4153
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk Lumber 1
+      takeName: 
+      firstFrame: 4154
+      lastFrame: 4179
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stand Ready Lumber 1
+      takeName: 
+      firstFrame: 4180
+      lastFrame: 4210
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stand Channel Lumber 1
+      takeName: 
+      firstFrame: 4211
+      lastFrame: 4241
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cinematic Stand
+      takeName: 
+      firstFrame: 4242
+      lastFrame: 4292
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cinematic Walk One
+      takeName: 
+      firstFrame: 4293
+      lastFrame: 4332
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
